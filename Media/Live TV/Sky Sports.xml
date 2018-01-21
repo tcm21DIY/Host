@@ -1,0 +1,92 @@
+<plugin>
+<title>[B][COLOR white]Sky Sports Main Event[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html([B][COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/streams/skysports1.html([B][COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsmainevent.php([B][COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35583/77299/Sky_Sports_1_Live_Stream.html([B][COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/skysportsmainevent([B][COLOR white]Link 5: Wizhdsports.is[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-sports-main-event([B][COLOR white]Link 6: Proxyportal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.time4tv.live/2017/11/sky-sports-main-event.php([B][COLOR white]Link 7: Time4tv.live[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky1.php([B][COLOR white]Link 8: Footballstreaming.tv[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Sports Cricket[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky2.html([B][COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/streams/skysports2.html([B][COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportscricket.php([B][COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35584/77295/Sky_Sports_Cricket_Live_Stream.html([B][COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/skysports_cricket([B][COLOR white]Link 5: Wizhdsports.is[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.time4tv.live/2014/16/sky-sports-cricket.php([B][COLOR white]Link 6: Time4tv.live[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky2.php([B][COLOR white]Link 7: Footballstreaming.tv[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Sports Action[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky3.html([B][COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/streams/skysports3.html([B][COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsaction.php([B][COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35585/77277/Sky_Sports_3_Live_Stream.html([B][COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/skysportsaction([B][COLOR white]Link 5: Wizhdsports.is[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-sports-action([B][COLOR white]Link 6: Proxyportal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.time4tv.live/2016/12/sky-sports-action.php([B][COLOR white]Link 7: Time4tv.live[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky3.php([B][COLOR white]Link 8: Footballstreaming.tv[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Sports Golf[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky4.html([B][COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/streams/skysports4.html([B][COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsgolf.php([B][COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35599/77315/Sky_Sports_4_Live_Stream.html([B][COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/skysportsgolf([B][COLOR white]Link 5: Wizhdsports.is[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.time4tv.live/2016/13/sky-sports-golf.php([B][COLOR white]Link 6: Time4tv.live[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky4.php([B][COLOR white]Link 7: Footballstreaming.tv[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Sports Premier League[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html([B][COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://abcast.me/streams/skysports5.html([B][COLOR white]Link 2: Abcast.me[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportspremierleague.php([B][COLOR white]Link 3: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.vipgoal.net/elitegol.com/35587/77289/Sky_Sports_Premier_League_Watch_Stream.html([B][COLOR white]Link 4: Vipgoal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/live_streaming/skysportspremierleague([B][COLOR white]Link 5: Wizhdsports.is[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.org/sky-sports-football([B][COLOR white]Link 6: Proxyportal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.time4tv.live/2017/07/Sky-Sports-Premier-League.php([B][COLOR white]Link 7: Time4tv.live[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky5.php([B][COLOR white]Link 8: Footballstreaming.tv[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Sports F1[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/skyf1.html([B][COLOR white]Link 1: Sstream.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsf1.php([B][COLOR white]Link 2: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-sports-f1([B][COLOR white]Link 3: Proxyportal.net[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.time4tv.live/2012/14/sky-sports-f1.php([B][COLOR white]Link 4: Time4tv.live[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Sports Box Office[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skysportsboxoffice.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-sports-box-office([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>

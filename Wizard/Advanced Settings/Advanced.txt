@@ -1,0 +1,13 @@
+name="[COLOR white]Advanced Settings (Kodi 17) [/COLOR]"
+section="yes"
+url="https://raw.githubusercontent.com/judgementwiz/Host/master/Wizard/Advanced%20Settings/Advanced%20Settings%20(Kodi%2017).txt"
+icon="https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Wizard/Maintenance.png" 
+fanart="https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Wizard/Fanart.jpg"
+description="Advanced Settings XML Files for Devices Running Krypton"
+
+name="[COLOR white]Advanced Settings (Kodi 16) [/COLOR]"
+section="yes"
+url="https://raw.githubusercontent.com/judgementwiz/Host/master/Wizard/Advanced%20Settings/Advanced%20Settings%20(Kodi%2016).txt"
+icon="https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Wizard/Maintenance.png" 
+fanart="https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Wizard/Fanart.jpg"
+description="Advanced Settings XML Files for Devices Running Jarvis"

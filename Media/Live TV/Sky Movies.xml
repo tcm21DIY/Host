@@ -1,0 +1,70 @@
+<plugin>
+<title>[B][COLOR white]Sky Movies Action[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesaction.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-action([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Comedy[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviescomedy.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-comedy([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Crime[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviescrime.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-crime([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Family[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesfamily.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-family([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Disney[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesdisney.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-disney([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Premiere[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviespremiere.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-premiere([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Select[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesselect.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-movies-select([B][COLOR white]Link 2: Proxyportal.net[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Sky Movies Showcase[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skymoviesshowcase.php([B][COLOR white]Link 1: Liveonlinetv247.info[/COLOR][/B])</sublink>
+</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>

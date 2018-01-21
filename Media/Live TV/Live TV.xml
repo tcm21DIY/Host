@@ -1,0 +1,47 @@
+<dir>
+<title>[B][COLOR white]Verdict IPTV[/COLOR][/B]</title>
+<link>plugin://script.module.verdict.iptv</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Live NetTV[/COLOR][/B]</title>
+<link>plugin://script.module.verdict.live.nettv</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]UKTV Now[/COLOR][/B]</title>
+<link>plugin://script.module.verdict.uktv.now</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>
+
+<plugin>
+<title>[B][COLOR white]FirstOneTV.Net[/COLOR][/B]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&item=title%3dFirstOne%2bTV%26url%3dfirstonetv.cfg%26definedIn%3dcustoms.cfg%26director%3dfirstonetv.eu%26genre%3dLive%2bTV%26type%3drss</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</plugin>
+
+<dir>
+<title>[B][COLOR white]BT Sports[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Live%20TV/BT%20Sports.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Sky Sports[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Live%20TV/Sky%20Sports.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Sky Movies[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Live%20TV/Sky%20Movies.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Open Sports Devil[/COLOR][/B]</title>
+<link>plugin://plugin.video.SportsDevil</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Live%20TV.png</thumbnail>
+</dir>

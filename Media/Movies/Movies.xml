@@ -1,0 +1,83 @@
+<dir>
+<title>[B][COLOR white]1-Click Play [COLOR red](No Pair Needed)[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Movies/1%20Click.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]New Releases[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/giladg/lists/latest-releases/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Upcoming[/COLOR][/B]</title>
+<tmdb>movie/upcoming</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Trending[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/movies/trending</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]In Theaters[/COLOR][/B]</title>
+<tmdb>movies/now_playing</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Most Popular[/COLOR][/B]</title>
+<tmdb>movies/popular</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Top Rated[/COLOR][/B]</title>
+<tmdb>movies/top_rated</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]IMDB Top 250[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-movies/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Based On A True Story[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/benfranklin/lists/based-on-a-true-story/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Christmas Collection[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/benfranklin/lists/christmas-x-mas-holiday-movies/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Collections[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Movies/Collections.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Genres[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Movies/Genres.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Years[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Movies/Years.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Search[/COLOR][/B]</title>
+<tmdb>search</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>

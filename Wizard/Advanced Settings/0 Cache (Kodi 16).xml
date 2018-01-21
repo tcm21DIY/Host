@@ -1,0 +1,12 @@
+<advancedsettings>
+  <disableminimize>true</disableminimize>
+	<cache>
+	<buffermode>1</buffermode>
+	<cachemembuffersize>0</cachemembuffersize>
+	<readbufferfactor>4</readbufferfactor>
+	</cache>
+	<network>
+		<curlclienttimeout>10</curlclienttimeout>
+		<curllowspeedtime>10</curllowspeedtime>
+	</network>
+</advancedsettings>

@@ -1,0 +1,29 @@
+<plugin>
+<title>[B][COLOR white]Highlights[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/playlist/PL8fVUTBmJhHLhELgY7cqSles0iT_fVw9G/</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]MLB[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/channel/UCoLrcjPV5PbUrUyXq5mjc_A/</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]NBA[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/channel/UCWJ2lWNubArHWmf3FIHbfcQ/</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]NFL[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/channel/UCDVYQ4Zhbm3S2dlz7P1GBDg/</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]NHL[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/channel/UCqFMzb-4AUf6WAIbl132QKA/</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</plugin>
