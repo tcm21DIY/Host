@@ -1,0 +1,17 @@
+<dir>
+<title>[B][COLOR white]Live Events[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Sports/Live%20Events.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Sport Highlights[/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Sports/Highlights.xml</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</dir>
+
+<plugin>
+<title>[B][COLOR white]Football Scores & Highlights[/COLOR][/B]</title>
+<link>plugin://script.module.verdict/?description&iconimage=C%3a%5cUsers%5cUnknown%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.verdict%5cicon.png&mode=115&name=football&url=url</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Sports.png</thumbnail>
+</plugin>
