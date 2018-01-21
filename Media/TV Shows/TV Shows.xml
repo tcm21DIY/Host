@@ -29,6 +29,18 @@
 </dir>
 
 <dir>
+<title>[B][COLOR white]Netflix[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/aclo_networks/lists/tv-shows-netflix/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Amazon[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/aclo_networks/lists/tv-shows-amazon/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
 <title>[B][COLOR white]Genres[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/TV%20Shows/Genres.xml</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
