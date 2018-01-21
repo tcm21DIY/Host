@@ -1,0 +1,23 @@
+<plugin>
+<title>[B][COLOR white]Movie Watchlist[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]TV Show Watchlist[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]My Lists[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/me/lists/</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]My Liked Lists[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/likes/lists</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
+</plugin>

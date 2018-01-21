@@ -18,7 +18,7 @@
 
 <dir>
 <title>[B][COLOR white]Trakt[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/me/lists/</trakt>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Trakt/Trakt.xml</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
 </dir>
 
