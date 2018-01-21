@@ -17,6 +17,12 @@
 </dir>
 
 <dir>
+<title>[B][COLOR white]Trakt[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/me/lists/</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
+</dir>
+
+<dir>
 <title>[B][COLOR white]Catch-up[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Catch-up/Catch-up.xml</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Catch-up.png</thumbnail>
@@ -67,18 +73,6 @@
 <dir>
 <title>[B][COLOR white]Logins[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Logins/Logins.xml</link>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Logins.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Test[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Logins.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Test 2[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/me/lists/</trakt>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Logins.png</thumbnail>
 </dir>
 
