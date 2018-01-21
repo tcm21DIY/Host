@@ -6,6 +6,12 @@
 
 <dir>
 <title>[B][COLOR white]New Releases[/COLOR][/B]</title>
+<trakt>https://api.trakt.tv/users/movistapp/lists/new-dvd-releases/items</trakt>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]New DVD Releases[/COLOR][/B]</title>
 <trakt>https://api.trakt.tv/users/giladg/lists/latest-releases/items</trakt>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Movies.png</thumbnail>
 </dir>
