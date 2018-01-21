@@ -1,26 +1,8 @@
 <plugin>
-<title>[B][COLOR white]Big List[/COLOR][/B]</title>
+<title>[B][COLOR white]Toonget.net[/COLOR][/B]</title>
 <link>plugin://script.module.verdict/?mode=51&url=http://www.toonget.net/cartoon</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Kids.png</thumbnail>
 </plugin>
-
-<dir>
-<title>[B][COLOR white]Walt Disney Animation Collection[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/movistapp/lists/walt-disney-animated-feature-films/items</trakt>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Kids.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Pixar Animation Studios Collection[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/movistapp/lists/pixar-animation-studios/items</trakt>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Kids.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]DreamWorks Animation Collection[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/movistapp/lists/dreamworks-animation/items</trakt>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Kids.png</thumbnail>
-</dir>
 
 <dir>
 <title>[B][COLOR white]Walt Disney Animation Studios[/COLOR][/B]</title>
