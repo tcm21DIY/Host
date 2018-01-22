@@ -2,8 +2,8 @@
   <disableminimize>true</disableminimize>
 	<cache>
 		<buffermode>1</buffermode>
-		<memorysize>157286400</memorysize>
-		<readfactor>4</readfactor>
+		<memorysize>419430400</memorysize>
+		<readfactor>4.0</readfactor>
 	</cache>
 	<network>
 		<curlclienttimeout>10</curlclienttimeout>
