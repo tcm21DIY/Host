@@ -42,7 +42,13 @@
 
 <plugin>
 <title>[B][COLOR white]Fitness[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/user/FitnessBlender//</link>
+<link>plugin://plugin.video.youtube/user/FitnessBlender/</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Fitness.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>[B][COLOR white]Fitness 2[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/c/FitnessBlender/</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Fitness.png</thumbnail>
 </plugin>
 
