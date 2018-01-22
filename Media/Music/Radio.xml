@@ -119,12 +119,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Chill[/COLOR][/B]</title>
-<link>http://media-sov.musicradio.com:80/ChillMP3</link>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Music.png</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR white]Gold Radio[/COLOR][/B]</title>
 <link>http://media-the.musicradio.com:80/GoldMP3</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Music.png</thumbnail>
@@ -137,7 +131,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Heart Radio[/COLOR][/B]</title>
+<title>[B][COLOR white]Heat Radio[/COLOR][/B]</title>
 <link>http://icy-e-bl-06-cr.sharp-stream.com:8000/heat.mp3</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Music.png</thumbnail>
 </item>
