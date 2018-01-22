@@ -47,7 +47,7 @@
 </plugin>
 
 <dir>
-<title>[B][COLOR white]Stand-Up Comedy[/COLOR][/B]</title>
+<title>[B][COLOR white]Stand-up Comedy[/COLOR][/B]</title>
 <trakt>https://api.trakt.tv/users/giladg/lists/stand-up-comedy/items</trakt>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Stand-Up%20Comedy.png</thumbnail>
 </dir>
