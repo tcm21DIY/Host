@@ -1,3 +1,9 @@
+<plugin>
+<title>[B][COLOR red]Buffer Problems? Click Me![/COLOR][/B]</title>
+<link>plugin://plugin.program.judgement/?mode=advancedsetting</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Problem.png</thumbnail>
+</plugin>
+
 <dir>
 <title>[B][COLOR white]Live TV[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Live%20TV/Live%20TV.xml</link>
