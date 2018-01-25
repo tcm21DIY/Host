@@ -1,4 +1,10 @@
 <plugin>
+<name>[B][COLOR white]Clear Cache [COLOR red](Updates Lists)[/COLOR][/B]</name>
+<link>plugin://plugin.video.verdict/?mode=clearCache</link>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Clear%20Cache.png</thumbnail>
+</plugin>
+
+<plugin>
 <title>[B][COLOR white]Movie Watchlist[/COLOR][/B]</title>
 <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/Trakt.png</thumbnail>
