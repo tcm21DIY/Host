@@ -10,7 +10,7 @@ http://
 http://
 
 #EXTINF:-1 tvg-id="Alibi" tvg-name="Alibi." tvg-logo="http://emby.world/LOGOS/2/alibihd.png" group-title="UK ENTERTAINMENT",Alibi.
-http://plextreamiptv.net:80/live/cover/cover/632.ts
+plugin://plugin.video.f4mTester/?url=http://plextreamiptv.net:80/live/cover/cover/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEST
 #EXTINF:-1 tvg-id="Sky Arts" tvg-name="Sky Arts HD" tvg-logo="http://emby.world/LOGOS/2/skyarts.png" group-title="UK LIFESTYLE",Sky Arts HD
 http://plextreamiptv.net:80/live/cover/cover/631.ts
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://plextream.co.uk/PICONS/foodnetwork.png" group-title="UK LIFESTYLE",Food Network
