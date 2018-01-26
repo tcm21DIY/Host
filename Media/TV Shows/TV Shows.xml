@@ -30,7 +30,7 @@
 
 <dir>
 <title>[B][COLOR white]Networks[/COLOR][/B]</title>
-<trakt>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/TV%20Shows/Networks.xml</trakt>
+<link>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/TV%20Shows/Networks.xml</link>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
