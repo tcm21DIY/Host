@@ -5,6 +5,12 @@
 </dir>
 
 <dir>
+<title>Animal Planet</title>
+<tmdb>network/shows/91</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
 <title>ABC</title>
 <tmdb>network/shows/2</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
@@ -25,6 +31,12 @@
 <dir>
 <title>ABC Family</title>
 <tmdb>network/shows/75</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
+<title>Adult Swim</title>
+<tmdb>network/shows/80</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -149,6 +161,12 @@
 </dir>
 
 <dir>
+<title>Food Network</title>
+<tmdb>network/shows/246</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
 <title>FYI</title>
 <tmdb>network/shows/1080</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
@@ -211,6 +229,12 @@
 <dir>
 <title>MTV</title>
 <tmdb>network/shows/33</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
+<title>MSNBC</title>
+<tmdb>network/shows/37</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
