@@ -23,12 +23,6 @@
 </dir>
 
 <dir>
-<title>[B][COLOR white]ABS-CBN[/COLOR][/B]</title>
-<tmdb>network/20</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
 <title>[B][COLOR white]ABC Family[/COLOR][/B]</title>
 <tmdb>network/shows/75</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
@@ -49,12 +43,6 @@
 <dir>
 <title>[B][COLOR white]Amazon[/COLOR][/B]</title>
 <tmdb>network/shows/1024</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Animal Planet[/COLOR][/B]</title>
-<tmdb>network/shows/91</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -83,6 +71,18 @@
 </dir>
 
 <dir>
+<title>[B][COLOR white]Channel 4[/COLOR][/B]</title>
+<tmdb>network/shows/26</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]Channel 5[/COLOR][/B]</title>
+<tmdb>network/shows/99</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
 <title>[B][COLOR white]CNN[/COLOR][/B]</title>
 <tmdb>network/shows/59</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
@@ -97,12 +97,6 @@
 <dir>
 <title>[B][COLOR white]Cinemax[/COLOR][/B]</title>
 <tmdb>network/shows/359</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Challenge[/COLOR][/B]</title>
-<tmdb>network/shows/116</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -149,20 +143,8 @@
 </dir>
 
 <dir>
-<title>[B][COLOR white]ESPN[/COLOR][/B]</title>
-<tmdb>network/shows/29</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
 <title>[B][COLOR white]FX[/COLOR][/B]</title>
 <tmdb>network/shows/88</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Food Network[/COLOR][/B]</title>
-<tmdb>network/shows/246</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -185,6 +167,12 @@
 </dir>
 
 <dir>
+<title>[B][COLOR white]History[/COLOR][/B]</title>
+<tmdb>network/shows/65</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
 <title>[B][COLOR white]HGTV[/COLOR][/B]</title>
 <tmdb>network/shows/210</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
@@ -197,26 +185,20 @@
 </dir>
 
 <dir>
-<title>[B][COLOR white]History[/COLOR][/B]</title>
-<tmdb>network/shows/65</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
 <title>[B][COLOR white]Hulu[/COLOR][/B]</title>
 <tmdb>network/shows/453</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]ITV[/COLOR][/B]</title>
-<tmdb>network/shows/9</tmdb>
+<title>[B][COLOR white]Investigation Discovery[/COLOR][/B]</title>
+<tmdb>network/shows/244</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]Investigation Discovery[/COLOR][/B]</title>
-<tmdb>network/shows/244</tmdb>
+<title>[B][COLOR white]ITV[/COLOR][/B]</title>
+<tmdb>network/shows/9</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -233,14 +215,14 @@
 </dir>
 
 <dir>
-<title>[B][COLOR white]MSNBC[/COLOR][/B]</title>
-<tmdb>network/shows/37</tmdb>
+<title>[B][COLOR white]NBC[/COLOR][/B]</title>
+<tmdb>network/shows/6</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
 <dir>
-<title>[B][COLOR white]NBC[/COLOR][/B]</title>
-<tmdb>network/shows/6</tmdb>
+<title>[B][COLOR white]Nickelodeon[/COLOR][/B]</title>
+<tmdb>network/shows/13</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -251,7 +233,7 @@
 </dir>
 
 <dir>
-<title>[B][COLOR white]National Geographic Channel[/COLOR][/B]</title>
+<title>[B][COLOR white]National Geographic[/COLOR][/B]</title>
 <tmdb>network/shows/799</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
@@ -259,12 +241,6 @@
 <dir>
 <title>[B][COLOR white]Netflix[/COLOR][/B]</title>
 <tmdb>network/shows/213</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]Nickelodeon[/COLOR][/B]</title>
-<tmdb>network/shows/13</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -293,8 +269,20 @@
 </dir>
 
 <dir>
+<title>[B][COLOR white]Sky 1[/COLOR][/B]</title>
+<tmdb>network/shows/214</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
 <title>[B][COLOR white]SyFy[/COLOR][/B]</title>
 <tmdb>network/shows/77</tmdb>
+<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
+</dir>
+
+<dir>
+<title>[B][COLOR white]TNT[/COLOR][/B]</title>
+<tmdb>network/shows/41</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
@@ -307,12 +295,6 @@
 <dir>
 <title>[B][COLOR white]TLC[/COLOR][/B]</title>
 <tmdb>network/shows/84</tmdb>
-<thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
-</dir>
-
-<dir>
-<title>[B][COLOR white]TNT[/COLOR][/B]</title>
-<tmdb>network/shows/41</tmdb>
 <thumbnail>https://raw.githubusercontent.com/judgementwiz/Host/master/Images/Verdict/TV%20Shows.png</thumbnail>
 </dir>
 
