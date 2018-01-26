@@ -83,10 +83,6 @@
 		<import addon="plugin.video.SportsDevil" version="" />
 		<import addon="plugin.video.f4mTester" version="" />
 		<import addon="plugin.video.youtube" version="" />
-		<import addon="plugin.video.bbciplayer" version="" />
-		<import addon="plugin.video.irish.tv" version="" />
-		<import addon="plugin.video.itv" version="" />
-		<import addon="plugin.video.uktvplay" version="" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
