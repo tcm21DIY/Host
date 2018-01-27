@@ -1,42 +1,28 @@
 <plugin>
 <title>[B][COLOR white]BT Sport 1 (1)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd</sublink>
+<sublink>plugin://plugin.video.live.streamspro/?url=plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;mode=1&amp;name=NetStreams AIO#</sublink>
 </link>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]BT Sport 1 (2)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1&amp;name=User+ID+%28+3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd%29</sublink>
+<sublink>plugin://plugin.video.live.streamspro/?url=plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;mode=1&amp;name=NetStreams AIO</sublink>
 </link>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]BT Sport 1 (3)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1</sublink>
+<sublink>plugin://plugin.video.live.streamspro/?url=plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&amp;mode=1</sublink>
 </link>
 </plugin>
 
 <plugin>
 <title>[B][COLOR white]BT Sport 1 (4)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd</sublink>
+<sublink>plugin://plugin.video.live.streamspro/?url=plugin://program.plexus/?url=acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8&mode=1</sublink>
 </link>
 </plugin>
 
-<plugin>
-  <title>[COLORlimegreen]beIN Sports 2 (no sublink)[/COLOR]</title>
-  <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/beinsports2.php</link>
-  <thumbnail>https://i.imgur.com/hXq2UNl.jpg</thumbnail>
-</plugin>
-
-<plugin>
-  <title>[COLORlimegreen]beIN Sports 2 (sublink)[/COLOR]</title>
-  <link>
-  <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/beinsports2.php</sublink>
-  </link>
-  <thumbnail>https://i.imgur.com/hXq2UNl.jpg</thumbnail>
-  <fanart></fanart>
-</plugin>
