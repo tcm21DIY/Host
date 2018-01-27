@@ -1,0 +1,6 @@
+<plugin>
+<title>BT Sport 1</title>
+<link>
+<sublink>plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1&amp;name=NetStreams</sublink>
+</link>
+</plugin>
