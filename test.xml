@@ -1,9 +1,14 @@
 <item>
 <title>test</title>
-<link>plugin://plugin.video.live.streamspro/?url=ask4access.com/ask-kodi/RADIX/IPTV/Ace-Channels-LSP.xml&mode=1</link>
+<link>plugin://plugin.video.live.streamspro/?url=ask4access.com/ask-kodi/RADIX/IPTV/Ace-Channels-LSP.xml</link>
 </item> 
 
 <item>
 <title>test 2</title>
-<link>plugin://plugin.video.live.streamspro/?url=ask4access.com/ask-kodi/RADIX/IPTV/Ace-Channels-LSP.xml&mode=1&name=*test*</link>
+<link>plugin://plugin.video.live.streamspro/?url=http://ask4access.com/ask-kodi/RADIX/IPTV/Ace-Channels-LSP.xml&mode=1</link>
+</item> 
+
+<item>
+<title>test 3</title>
+<link>plugin://plugin.video.live.streamspro/?url=http://ask4access.com/ask-kodi/RADIX/IPTV/Ace-Channels-LSP.xml&mode=1&name=*test*</link>
 </item> 
