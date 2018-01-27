@@ -2,3 +2,9 @@
 <title>BT Sport 1</title>
 <link>plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd</link>
 </plugin>
+
+<plugin>
+  <title>[COLORlimegreen]beIN Sports 2[/COLOR]</title>
+  <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/beinsports2.php</link>
+  <thumbnail>https://i.imgur.com/hXq2UNl.jpg</thumbnail>
+</plugin>
