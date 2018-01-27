@@ -1,21 +1,21 @@
 <plugin>
-<title>[B][COLOR dodgerblue]BT Sport 1 (1)[/COLOR][/B]</title>
+<title>[B][COLOR white]BT Sport 1 (1)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd#</sublink>
+<sublink>plugin://plugin.program.plexus/?url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd#</sublink>
 </link>
 </plugin>
 
 <plugin>
-<title>[B][COLOR dodgerblue]BT Sport 1 (2)[/COLOR][/B]</title>
+<title>[B][COLOR white]BT Sport 1 (2)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1&amp;name=User+ID+%28+3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd%29#</sublink>
+<sublink>plugin://plugin.program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1&amp;name=User+ID+%28+3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd%29#</sublink>
 </link>
 </plugin>
 
 <plugin>
-<title>[B][COLOR dodgerblue]BT Sport 1 (3)[/COLOR][/B]</title>
+<title>[B][COLOR white]BT Sport 1 (3)[/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1#</sublink>
+<sublink>plugin://plugin.program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1#</sublink>
 </link>
 </plugin>
 
