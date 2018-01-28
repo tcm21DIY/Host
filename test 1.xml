@@ -1,9 +1,9 @@
 <plugin>
 <title>[B][COLOR white]AceStream Links[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/judgementwiz/Host/master/test%202.xml</link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/judgementwiz/Host/master/test%202.xml&mode=1&name=*test*</link>
 </plugin>
 
-<item>
+<plugin>
 <title>[B][COLOR white]AceStream Links 2[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/judgementwiz/Host/master/test%202.xml</link>
-</item>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/judgementwiz/Host/master/test%202.xml&mode=1</link>
+</plugin>
