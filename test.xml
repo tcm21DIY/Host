@@ -1,9 +1,9 @@
 <plugin>
-<title>[B][COLOR white]test 1[/COLOR][/B]</title>
+<title>Test 1</title>
 <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/judgementwiz/Host/master/test.xml</link>
 </plugin>
 
 <item>
-<title>[B][COLOR white]test 2[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/judgementwiz/Host/master/test.xml</link>
-</item>
+<title>Sky Sports Main Event 1080p</title>
+<link>plugin://program.plexus/?url=acestream://37e8757f964b021e7ed9b3699dda28ffa2ed13b5&amp;mode=1&amp;name=Sky+Sports+Main+Event</link>
+</item> 
