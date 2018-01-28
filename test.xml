@@ -1,9 +1,9 @@
 <plugin>
-<title>[B][COLOR white]AceStream Sports IPTV[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=</link>
+<title>[B][COLOR white]test 1[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/judgementwiz/Host/master/test.xml</link>
 </plugin>
 
 <item>
-<title>[B][COLOR white]AceStream Sports IPTV[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?mode=1&url=</link>
+<title>[B][COLOR white]test 2[/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/judgementwiz/Host/master/test.xml</link>
 </item>
