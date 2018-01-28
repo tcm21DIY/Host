@@ -2,8 +2,3 @@
 <title>[B][COLOR white]AceStream Links[/COLOR][/B]</title>
 <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/judgementwiz/Host/master/test%202.xml&mode=1&name=test</link>
 </plugin>
-
-<plugin>
-<title>[B][COLOR white]AceStream Links 2[/COLOR][/B]</title>
-<link>plugin://plugin.video.live.streamspro/?url=http://ask4access.com/ask-kodi/RADIX/IPTV/Ace-Channels-LSP.xml&mode=1&name=test</link>
-</plugin>
