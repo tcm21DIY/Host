@@ -37,3 +37,8 @@
 <title>[B][COLOR lime]12:00[/COLOR][/B] l [B][COLOR white]Deportivo La Coruna v Levante[/COLOR][/B] [B][COLOR red](Link 3)[/COLOR][/B]</title>
 <link>plugin://program.plexus/?url=acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374&amp;mode=1&amp;name=NetStreams SportsHUB#</link>
 </item>
+
+<item>
+<title>[B][COLOR red]00:00[/COLOR][/B] l [B][COLOR white]----[/COLOR][/B]</title>
+<link>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#</link>
+</item>
