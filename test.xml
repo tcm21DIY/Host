@@ -4,7 +4,19 @@
 </dir>
 
 <dir>
-<title>Search</title>
-<imdburl>searchseries</imdburl>
+<title>Search 1</title>
+<imdburl>search</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Search 2</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Search 3</title>
+<imdburl>searchfilms</imdburl>
 <thumbnail></thumbnail>
 </dir>
