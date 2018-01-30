@@ -9,6 +9,77 @@ http://
 #EXTINF:-1,***** Twitter: @JudgementWiz *****
 http://
 
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Premier League HD [Backup]" tvg-logo="" group-title="",UK: Sky Sports Premier League HD [Backup]
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="",UK: Sky Sports Premier League HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="" group-title="",UK: Sky Sports Mix HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Main Event HD [Backup]" tvg-logo="" group-title="",UK: Sky Sports Main Event HD [Backup]
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="",UK: Sky Sports Football HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Arena HD [Backup]" tvg-logo="" group-title="",UK: Sky Sports Arena HD [Backup]
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="",UK: Sky Sports Arena HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="",UK: Sky Sports Action HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="",UK: BT Sport 2 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="",UK: BT Sport 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="",PT: SPORT TV 5 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="",PT: SPORT TV 4 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="",PT: SPORT TV 3 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="",PT: SPORT TV 2 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="",PT: SPORT TV 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 24 HD" tvg-logo="" group-title="",IT: Sky Sport 24 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 2 HD" tvg-logo="" group-title="",IT: Sky Sport 2 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IT: Sky Sport 1 HD" tvg-logo="" group-title="",IT: Sky Sport 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Beinsport 3 HD" tvg-logo="" group-title="",FR: Beinsport 3 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Beinsport 2 HD" tvg-logo="" group-title="",FR: Beinsport 2 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Beinsport 1 HD" tvg-logo="" group-title="",FR: Beinsport 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M Futboll HD" tvg-logo="" group-title="",ES: M Futboll HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BEIN SPORT ES" tvg-logo="" group-title="",ES: BEIN SPORT ES
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES: BEIN LALIGA HD" tvg-logo="" group-title="",ES: BEIN LALIGA HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="",DE: Sky Sport 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="" group-title="",DE: Sky Bundesliga 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beinsport 11HD" tvg-logo="" group-title="",Beinsport 11HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 9HD" tvg-logo="" group-title="",BeIN Sport 9HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 8HD" tvg-logo="" group-title="",BeIN Sport 8HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 7HD" tvg-logo="" group-title="",BeIN Sport 7HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 6HD" tvg-logo="" group-title="",BeIN Sport 6HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 5HD" tvg-logo="" group-title="",BeIN Sport 5HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 3HD" tvg-logo="" group-title="",BeIN Sport 3HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 2 HD" tvg-logo="" group-title="",BeIN Sport 2 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sport 1 HD" tvg-logo="" group-title="",BeIN Sport 1 HD
+http://163.172.36.103:8000/live/fs2aTpEXHl/TM3Ewu1fug/1547.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="*TR_ULUSAL*" tvg-logo="" group-title="TR_ULUSAL",*TR_ULUSAL*
 http://eviptv.tk:25461/live/turkalman/4LHJGrIxp8/91.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR_TRT 1 HD PLUS" tvg-logo="" group-title="TR_ULUSAL",TR_TRT 1 HD PLUS
