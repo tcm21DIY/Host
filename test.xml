@@ -4,19 +4,9 @@
 </dir>
 
 <dir>
-<title>Search 1</title>
-<imdburl>search</imdburl>
+<title>Test</title>
+<m3u>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Live%20TV/IPTV%20Test.m3u</m3u>
 <thumbnail></thumbnail>
-</dir>
-
-<dir>
-<title>Search 2</title>
-<imdburl>searchmovies</imdburl>
-<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<title>Search 3</title>
-<imdburl>searchfilms</imdburl>
-<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </dir>
