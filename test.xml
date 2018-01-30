@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text\/xsl"?>
+<layouttype>
+# -=DONT STEAL MY FUCKIN LINKS=-</layouttype>
+#<\!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
+<layouttype>list
+ 
+<channels>
+<channel><name>[B][COLOR limegreen]All Times Are In UK Time Zone[/COLOR][/B]</name><link>http://ignoreme</link><thumbnail>http://www.pvhc.net/img19/mkghlgjtgixycifrfdst.png</thumbnail><fanart>http://www.aspersstratford.co.uk/imgmin/backgrounds/Promos_Live-Sport-4.jpg</fanart></channel>
+<channel><name>[B][COLOR white]AceStream Engine & PleXus ADD-ON Required[/COLOR][/B]</name><link>http://</link><thumbnail>http://www.pvhc.net/img19/mkghlgjtgixycifrfdst.png</thumbnail><fanart>http://www.aspersstratford.co.uk/imgmin/backgrounds/Promos_Live-Sport-4.jpg</fanart></channel>
+<channel><name>[B][COLOR cyan][COLOR red]RED[/COLOR] = OFFLINE[/COLOR] l [COLOR cyan][COLOR lime]GREEN[/COLOR] = ONLINE[/COLOR][/B]</name><link>http://</link><thumbnail>http://www.pvhc.net/img19/mkghlgjtgixycifrfdst.png</thumbnail><fanart>http://www.aspersstratford.co.uk/imgmin/backgrounds/Promos_Live-Sport-4.jpg</fanart></channel>
+<channel><name>         </name><link>http://</link><thumbnail>http://www.pvhc.net/img19/mkghlgjtgixycifrfdst.png</thumbnail><fanart>http://www.aspersstratford.co.uk/imgmin/backgrounds/Promos_Live-Sport-4.jpg</fanart></channel>
+
+<channel>
+<name>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Swansea City v Arsenal[/COLOR][/B]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Swansea City v Arsenal[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://e5abe2dbb52e1ed6a0576e7487897207dadfddc7&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Swansea City v Arsenal[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://0407e26ef10806d37c39f98880ca0bb43c006bf7&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Swansea City v Arsenal[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Swansea City v Arsenal[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://b126242834056d12a008063c128d855db329bcff&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://f28bcb602f53b082479345073b7b10626e5632a0&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://8808c4b257fddddffd13a1d71042c9969db2f06d&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Sheffield United v Aston Villa[/COLOR][/B]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]Sheffield United v Aston Villa[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://9eba690be925a98e8aecfc758070b874e19260c6&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR red]19:45[/COLOR][/B] l [B][COLOR white]Sheffield United v Aston Villa[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[B][COLOR lime]20:00[/COLOR][/B] l [B][COLOR white]Huddersfield Town v Liverpool[/COLOR][/B]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+	<item>
+		<title>[B][COLOR lime]20:00[/COLOR][/B] l [B][COLOR white]Huddersfield Town v Liverpool[/COLOR][/B]</title>
+		<link>plugin://program.plexus/06353bc5479abce8fd52dceb2dd19ee6b4e3f4d4?url=acestream://&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]20:00[/COLOR][/B] l [B][COLOR white]Huddersfield Town v Liverpool[/COLOR][/B]</title>
+		<link>plugin://program.plexus/a5c49857c71af231860535086b201d5bba789949?url=acestream://&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]20:00[/COLOR][/B] l [B][COLOR white]Huddersfield Town v Liverpool[/COLOR][/B]</title>
+		<link>plugin://program.plexus/2247277e77ac05e617f85d270a02cf9cc0825a10?url=acestream://&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]20:00[/COLOR][/B] l [B][COLOR white]Huddersfield Town v Liverpool[/COLOR][/B]</title>
+		<link>plugin://program.plexus/75f46242c24696fc3d1d21973cd778857ca7559f?url=acestream://&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+</items>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://f28bcb602f53b082479345073b7b10626e5632a0&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[B][COLOR lime]19:45[/COLOR][/B] l [B][COLOR white]West Ham United v Crystal Palace[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://8808c4b257fddddffd13a1d71042c9969db2f06d&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+</items>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]20:05[/COLOR][/B] l [B][COLOR white]Rennes v Paris Saint Germain[/COLOR][/B]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+	<item>
+		<title>[B][COLOR lime]20:05[/COLOR][/B] l [B][COLOR white]Rennes v Paris Saint Germain[/COLOR][/B]</title>
+		<link>plugin://program.plexus/?url=acestream://4de88b3009186ab409fb4d0464efda71f82ae29c&amp;mode=1&amp;name=NetStreamsAIO</link>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+	</item>
+</items>
+</channels>
