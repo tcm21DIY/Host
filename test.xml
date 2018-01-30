@@ -2,11 +2,3 @@
 <title>Disney Collection</title>
 <imdburl>list/ls021204370/</imdburl>
 </dir>
-
-<dir>
-<title>Test</title>
-<m3u>https://raw.githubusercontent.com/judgementwiz/Host/master/Media/Live%20TV/IPTV%20Test.m3u</m3u>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</dir>
