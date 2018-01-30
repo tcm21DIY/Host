@@ -232,7 +232,7 @@
     <news>Changed a-z from dialog to window / Removed a bunch of spaces and empty lines</news>
   </extension>
 </addon>
-<addon id="plugin.video.NetStreams" name="[B][COLOR white]Net[/COLOR][/B][B][COLOR blueviolet]Streams[/COLOR][B] [B][COLOR white]AIO[/COLOR][/B]" version="3.4" provider-name="@KodinityTV">
+<addon id="plugin.video.NetStreams" name="[B][COLOR white]Net[/COLOR][/B][B][COLOR blueviolet]Streams[/COLOR][B] [B][COLOR white]AIO[/COLOR][/B]" version="3.5" provider-name="@KodinityTV">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
