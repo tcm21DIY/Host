@@ -2,3 +2,9 @@
 <title>Disney Collection</title>
 <imdburl>list/ls021204370/</imdburl>
 </dir>
+
+<dir>
+<title>Search</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>
